@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "926137579027",
+    "project_id": "chikitsha-3ce59",
+    "storage_bucket": "chikitsha-3ce59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926137579027:android:3f29f78912db1dfdbab1e6",
+        "android_client_info": {
+          "package_name": "xyz.chikitsha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926137579027-me4uu96lnld6oo9m9fs400avh6o9v844.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AAAA16IZ9hM:APA91bE8MBrew_qakYz_gc_uPvRdTUWQYowte3D5MBJvon0Hs2UCHXGKxVE3SQ-gmF7h6Lj_9JKGxTmkux1U2cydq7kVuGf5n2HIaqs6cPDFhx8i1Gl3lwxiIn2L65Z_mIPTZSkW79c5"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926137579027-me4uu96lnld6oo9m9fs400avh6o9v844.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926137579027:android:74c2810b7ad8b514bab1e6",
+        "android_client_info": {
+          "package_name": "xyz.chikitsa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926137579027-me4uu96lnld6oo9m9fs400avh6o9v844.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO_LuJaCAz_xbEsQZ_COH4X7YU8g8W6S4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926137579027-me4uu96lnld6oo9m9fs400avh6o9v844.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

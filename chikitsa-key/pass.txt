@@ -1,0 +1,4 @@
+Chikitsa Keystore credentials
+  Keystore password: 308e827a762240ad840b0923b894084f
+  Key alias:         QG11c3RhZmEyMy9jaGlraXRzaGE=
+  Key password:      632ef22cbf484905a182bc5713f75556

@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "Chikitsa",
+    "slug": "chikitsa",
+    "version": "1.8.3",
+    "orientation": "portrait",
+    "icon": "./assets/chikitsa_app_icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/chikitsa_app_icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "xyz.chikitsa"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/chikitsa_app_icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "useNextNotificationsApi": true,
+      "package": "xyz.chikitsa",
+      "versionCode": 17,
+      "softwareKeyboardLayoutMode": "pan",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyCJM_Rch_GTlcDwq-7GlszikFCdxqtYTg4"
+        }
+      },
+      "googleServicesFile": "./google-services.json"
+    },
+    "web": {
+      "favicon": "./assets/chikitsa_app_icon.png"
+    },
+    "plugins": [
+      
+    ]
+  }
+}
